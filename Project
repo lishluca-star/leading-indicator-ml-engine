@@ -1,0 +1,6 @@
+git init
+git add .
+git commit -m "Initial commit: leading indicator ML engine"
+git branch -M main
+git remote add origin https://github.com/YOURUSERNAME/leading-indicator-ml-engine.git
+git push -u origin main
